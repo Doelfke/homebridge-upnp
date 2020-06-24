@@ -19,8 +19,6 @@
     "url": "git://github.com/langovoi/homebridge-upnp.git"
   },
   "engines": {
-    "node": "^6.9.0 || ^8.9.0 || ^10.13.0",
-    "homebridge": "^0.3.0 || ^0.4.0"
   },
   "dependencies": {
     "@langovoi/upnp-device-client": "^1.0.6",
